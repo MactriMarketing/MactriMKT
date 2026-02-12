@@ -1,0 +1,5 @@
+{
+  "name": "Mạc Trí MKT",
+  "description": "Ứng dụng chỉnh sửa ảnh AI sử dụng Gemini. Hỗ trợ thay đổi hình nền và chỉnh sửa chi tiết theo yêu cầu.",
+  "requestFramePermissions": []
+}
